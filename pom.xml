@@ -52,7 +52,7 @@
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	       <sonar.language>java</sonar.language>
                 <sonar.host.url>http://18.232.52.14:8080/sonarqube/</sonar.host.url>
-                <sonar.projectKey>analysis-on-second1</sonar.projectKey>
+                <sonar.projectKey>analysis-on-second1-july3</sonar.projectKey>
             </properties> 
         </profile>
         <profile>
