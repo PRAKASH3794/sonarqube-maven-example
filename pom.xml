@@ -49,9 +49,10 @@
             </activation>
             <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
-                <sonar.host.url>
-                    http://3.235.236.54:9090/sonarqube/
-                </sonar.host.url>
+                <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	       <sonar.language>java</sonar.language>
+                <sonar.host.url>http://18.232.52.14:8080/sonarqube/</sonar.host.url>
+                <sonar.projectKey>analysis-on-second1</sonar.projectKey>
             </properties> 
         </profile>
         <profile>
